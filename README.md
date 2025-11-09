@@ -17,6 +17,35 @@ hall tickets for the applicants. After successful generation of hall tickets, th
 the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 ### UML DIAGRAMS:
 
+```
+usecase diagram
+```
+<img width="1065" height="971" alt="Screenshot 2025-11-09 133143" src="https://github.com/user-attachments/assets/084cb472-85f2-430e-a600-70e67bd695a5" />
+
+```
+class diagram
+```
+<img width="1416" height="969" alt="Screenshot 2025-11-09 133219" src="https://github.com/user-attachments/assets/da5bc02b-77ac-4442-9f89-91e9967ad40e" />
+
+```
+sequence diagram
+```
+<img width="1176" height="970" alt="Screenshot 2025-11-09 133237" src="https://github.com/user-attachments/assets/a9f46ba1-71d5-456c-81e8-fa42f7e7c884" />
+
+```
+activity diagram
+```
+<img width="997" height="972" alt="Screenshot 2025-11-09 133303" src="https://github.com/user-attachments/assets/91e41e94-4cb8-48e5-a37a-2cf06303bbe4" />
+
+```
+package diagram
+```
+<img width="1483" height="972" alt="Screenshot 2025-11-09 133325" src="https://github.com/user-attachments/assets/c527b42c-cbde-49bb-ad26-1e2917359141" />
+
+```
+communication diagram
+```
+<img width="1471" height="964" alt="Screenshot 2025-11-09 133345" src="https://github.com/user-attachments/assets/ba9ba3c8-7306-45f4-ac8f-67b503cdab5e" />
 
 
 ### RESULT:
